@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/sky"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -19,20 +20,20 @@
 
         <Button
             android:id="@+id/SignUp"
-            android:layout_width="150dp"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="30dp"
-            android:layout_marginLeft="20dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
             android:text="Sign Up"
             android:textSize="20dp"
             android:textStyle="bold" />
 
         <Button
             android:id="@+id/LogIn"
-            android:layout_width="150dp"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="50dp"
-            android:layout_marginLeft="50dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginLeft="30dp"
             android:text="Log In"
             android:textSize="20dp"
             android:textStyle="bold" />
