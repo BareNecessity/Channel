@@ -20,6 +20,7 @@
         android:layout_width="167dp"
         android:layout_height="67dp"
         android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
         android:text="Login In"
         android:textSize="25dp"
         android:textStyle="bold"
@@ -31,7 +32,7 @@
         android:orientation="vertical">
 
         <EditText
-            android:layout_width="362dp"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
@@ -41,7 +42,7 @@
             android:inputType="textEmailAddress" />
 
         <EditText
-            android:layout_width="362dp"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
@@ -61,11 +62,11 @@
     </LinearLayout>
 
     <Button
-        android:layout_width="362dp"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="150dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginStart="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginStart="50dp"
         android:layout_marginRight="20dp"
         android:layout_marginEnd="20dp"
         android:text="   Login  "
