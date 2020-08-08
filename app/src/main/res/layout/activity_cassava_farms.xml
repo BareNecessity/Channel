@@ -64,11 +64,14 @@
     <Button
         android:layout_width="155dp"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="20dp"/>
+        android:layout_marginLeft="20dp"
+        android:hint="Expected Returns"
+        android:text="35% in 7 months"/>
     <Button
         android:layout_width="155dp"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="60dp"/>
+        android:layout_marginLeft="60dp"
+        android:text="$50,000"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -78,11 +81,13 @@
         <Button
             android:layout_width="155dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"/>
+            android:layout_marginLeft="20dp"
+            android:text="Ogun State"/>
         <Button
             android:layout_width="155dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="60dp"/>
+            android:layout_marginLeft="60dp"
+            android:text="15th April 2020"/>
 </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -92,11 +97,13 @@
         <Button
             android:layout_width="155dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"/>
+            android:layout_marginLeft="20dp"
+            android:text="16th November 2020"/>
         <Button
             android:layout_width="155dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="60dp"/>
+            android:layout_marginLeft="60dp"
+            android:text="$50,000 per unit"/>
 
     </LinearLayout>
 
@@ -105,7 +112,9 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="82dp"
         android:layout_marginTop="50dp"
-        android:layout_marginRight="20dp"/>
+        android:layout_marginRight="20dp"
+        android:background="#7CFC00"
+        android:text="ADD TO CART"/>
 
 
 
