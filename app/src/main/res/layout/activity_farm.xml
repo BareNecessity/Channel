@@ -95,7 +95,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Expected Returns"
-            android:textColor="	#7CFC00"
+            android:textColor="#7CFC00"
             android:layout_marginLeft="20dp"
             android:layout_marginStart="20dp"/>
         <TextView
